@@ -1,0 +1,5 @@
+({
+    "font": File (
+        path: "font/FiraMono-Regular.ttf",
+    ),
+})
