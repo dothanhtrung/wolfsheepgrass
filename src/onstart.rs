@@ -91,7 +91,7 @@ pub fn setup(
     commands.spawn((
         TextBundle::from_sections([
             TextSection::new(
-                ", dead by Hungry: ",
+                ", Starving: ",
                 TextStyle {
                     font: ui_assets.font.clone(),
                     font_size: 40.0,
